@@ -1,0 +1,133 @@
+:root{
+    background-color: #6d64f0;
+}
+
+header .contname{
+    display: flex;
+    align-items: center;
+   justify-content: space-between;
+   }
+
+   .topnav {
+    overflow: hidden;
+    background-color:rgb(219, 204, 204);
+   }
+   
+   .topnav a {
+    float: left;
+    display: block;
+    color: #ec5151;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+   }
+
+.voxnome{
+    color: red;
+    font-size: 30px;
+    align-items: center;
+  }
+
+  .logonav{
+    width: 6cm;
+    height: cm;
+    align-items: flex-end;
+  }
+
+.imgd20{
+    width: 2cm;
+    height: 2cm;
+}
+
+.reco{
+    text-align: center;
+    padding: 15px;
+}
+
+#imgs {
+    align-items: center;
+    column-count: 3;
+    column-gap: 40px;
+    column-rule-style: solid;
+    column-rule-width: 1px;
+    column-rule-color: black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#imgs div{
+    text-align: center;
+    padding: 0px;
+    }
+  
+  .img{
+    width: 60%;
+    height: 30%;
+  }
+
+  #Textos{
+    align-items: center;
+    column-count: 3;
+    column-gap: 40px;
+    column-rule-style: solid;
+    column-rule-width: 4px;
+    column-rule-color: black;
+    margin-top: 20px;
+    margin-bottom: 100px;
+  }
+  
+  h4 {
+    column-span:unset;
+  }
+
+  #Textos div{
+    text-align: center;
+  }
+.nottext{
+  text-align: center;
+  color: black;
+  margin: 20px;
+}
+
+.titulonot  {
+  background-color:aqua;
+  font-size:20px;
+  margin-top:5%;
+  padding:1%;
+  text-align: center;
+  font-weight: bolder;
+ }
+
+ .textnot{
+  text-align: justify;
+ }
+
+ .botao{
+  background-color:red;
+  border: none;
+  padding: 1%;
+  margin-right: 8%;
+  margin-top: 1%;
+  font-size:0,5cm;
+  cursor: pointer;
+ }
+
+ .Noticias{
+   background-color: red;
+   width: 30%;
+   align-items: flex-end;
+  }
+
+  .gamesfree{
+    margin-top:3px;
+    text-align: center;
+    color: black;
+  }
+
+  .sugest{
+    padding: 15px;
+  }
+
+  .distdesen{
+    color: beige;
+  }
